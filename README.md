@@ -33,8 +33,8 @@ UniGuard 是一个面向多模态输入的安全护栏框架，旨在最小化 L
 
 1. 克隆仓库：
    ```bash
-   git clone <repository-url> UniGuard
-   cd UniGuard
+   git clone https://github.com/Yang-Shihui/UniGuard-reproduction.git UniGuard-reproduction
+   cd UniGuard-reproduction
    ```
 
 2. 安装依赖（需要 Python 3.10+）：
